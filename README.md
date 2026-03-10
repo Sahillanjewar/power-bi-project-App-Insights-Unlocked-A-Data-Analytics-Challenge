@@ -9,6 +9,7 @@ Project Overview
 •	Transformed raw data into actionable business insights for developers and stakeholders.
 
 Objectives
+
 •	Identify key factors contributing to high app ratings and improved user satisfaction.
 
 •	Discover top-performing app categories based on installs and engagement.
