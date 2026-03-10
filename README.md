@@ -1,8 +1,8 @@
 # power-bi-project-App-Insights-Unlocked-A-Data-Analytics-Challenge
 A Power BI data analytics project analyzing Google Play Store apps to uncover insights on ratings, installs, categories, pricing, and user behavior.
-# 📊 App Insights Unlocked: A Data Analytics Challenge (Power BI)
+#  App Insights Unlocked: A Data Analytics Challenge (Power BI)
 
-🎯 Objectives
+Objectives
 
 Identify factors contributing to high app ratings
 This analysis examines patterns in ratings to understand what improves user satisfaction.
@@ -19,7 +19,7 @@ The project studies review counts, installs, and ratings to uncover user trends.
 Provide actionable insights for business decision-making
 The findings help stakeholders make strategic product and marketing decisions.
 
-📁 Dataset Features
+Dataset Features
 
 App, Category, Rating, Reviews
 These fields help measure app popularity, user satisfaction, and engagement levels.
@@ -33,7 +33,7 @@ These fields help understand target audience segments and category performance.
 Last Updated, Android Version
 These columns help analyze update frequency and device compatibility trends.
 
-🛠 Tools Used
+Tools Used
 
 Power BI
 Used to create interactive dashboards and visual analytics for business insights.
@@ -44,7 +44,7 @@ Applied for cleaning, transforming, and preparing raw data before analysis.
 DAX (Data Analysis Expressions)
 Used to build calculated columns, measures, and KPIs for advanced analysis.
 
-📊 Key Dashboards
+Key Dashboards
 
 App Performance Overview
 Displays overall KPIs such as average rating, total installs, and total reviews.
@@ -61,7 +61,7 @@ Visualizes the relationship between popularity and user satisfaction.
 Content Rating Insights
 Shows how apps perform across different audience age groups.
 
-📈 Key Insights
+ Key Insights
 
 Free apps dominate installs but paid apps often have higher ratings
 Free apps attract larger audiences, while paid apps tend to maintain better quality perception.
@@ -75,7 +75,7 @@ Users prefer lightweight apps that consume less storage and data.
 High installs do not always guarantee high ratings
 Popularity does not necessarily reflect user satisfaction.
 
-📂 Project Structure
+Project Structure
 
 data/
 Contains raw and cleaned datasets used for analysis.
@@ -89,7 +89,7 @@ Contains exported dashboard screenshots for preview.
 docs/
 Includes project documentation, reports, and case study material.
 
-🚀 Business Impact
+ Business Impact
 
 Helps app developers optimize features
 Insights guide improvements in app performance and user satisfaction.
@@ -103,6 +103,6 @@ Marketing efforts can be directed toward high-performing segments.
 Improves overall user experience
 Understanding user preferences helps in building better applications.
 
-⭐ If you like this project, give it a star
+ If you like this project, give it a star
 
 Your support encourages continuous learning and sharing of data analytics projects.
