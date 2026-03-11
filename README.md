@@ -45,3 +45,21 @@ Recommendations : App Growth & User Engagement
 
 •	Regular updates and continuous user feedback analysis can improve ratings, retention, and long-term engagement.
 
+<img width="1280" height="798" alt="image" src="https://github.com/user-attachments/assets/244ac3f5-bb1f-4b88-a25f-e63eeb905587" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/096479d3-71be-4730-b2c1-a2d7c2d0e39a" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/61752498-7742-40bd-8d66-cee09ca4768b" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/dbec23bd-28a6-4ad9-9846-9de7201cf972" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/147d21cc-1d66-48fa-8f0a-f9ead5a5e9d5" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d1184d13-9906-4fcd-be53-7effd76aac21" />
+
+
+
+
+
+
+
